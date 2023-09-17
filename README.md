@@ -21,4 +21,4 @@ OsintX is a new osint tool created by ukrainian developer.
 
 # This is first version of OsintX
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?IArepetsky=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
