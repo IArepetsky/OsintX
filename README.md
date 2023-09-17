@@ -1,0 +1,2 @@
+# OsintX
+OsintX is realesed!
