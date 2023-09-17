@@ -23,4 +23,4 @@ OsintX is a new osint tool created by ukrainian developer.
 3. Open cmd and run "pip install -r requirements.txt"
 4. Open start.exe
 
-# This is first version of OsintX
+## This is first version of OsintX
