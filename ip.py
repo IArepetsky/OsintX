@@ -1,4 +1,6 @@
 import time
+import subprocess
+import os
 import requests
 from pyfiglet import Figlet
 import folium
