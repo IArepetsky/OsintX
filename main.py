@@ -44,3 +44,11 @@ if a == "3":
 
    clear_console()
    subprocess.run(["python", "ip.py"])
+
+if a == "2":
+   def clear_console():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+
+   clear_console()
+   subprocess.run(["python", "Discord.py"])
