@@ -1,5 +1,5 @@
 # OsintX
-[![MasterHead](https://ibb.co/MBn5pRZ)](https://github.com/IArepetsky)
+[![MasterHead](https://i.postimg.cc/g0xmyMQF/banner.jpg)](https://github.com/IArepetsky)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 OsintX is released!
