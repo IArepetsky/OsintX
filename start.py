@@ -58,4 +58,10 @@ def clear_console():
 
 
 clear_console()
-subprocess.run(["python", "main.py"])
+
+
+a = input("Введите ключ: ")
+if a == ("9WKpG3"):
+    subprocess.run(["python", "main.py"])
+else:
+    print("Неправильный ключ!")
