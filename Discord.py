@@ -8,7 +8,7 @@ import os
 
 preview_text = Figlet(font='slant')
 print(Fore.BLUE + preview_text.renderText('OUR DISCORD'))
-print("Дискорд поддерживающий OsintX - https://discord.gg/wm3RBZrHSn")
+print("Дискорд поддерживающий OsintX - IHD https://discord.gg/NCpsF22pRu")
 
 a = input("Назад - 0: ")
 if a == "0":
